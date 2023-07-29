@@ -1,0 +1,77 @@
+ 
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+   
+  }
+  
+  /* #signup-page,
+  #profile-page {
+    display: none;
+  } */
+  
+  /* h2 {
+    margin-bottom: 20px;
+  } */
+  
+ 
+  input {
+    margin-bottom: 20px;
+  
+   padding:5px;
+   margin: 10px;
+    width: 300px;
+  }
+
+  
+  
+   #signup-page {
+
+    position: absolute;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 900px;
+    margin: auto;
+    text-align: center;
+    background-color: white;
+    
+
+  }
+    
+
+  #profile-page{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+    height:400px;
+    background-color: white;
+  }
+   
+  button {
+    margin-top: 10px;
+    width: 200px;
+    height: 30px;
+    cursor: pointer;
+    background-color:#625BF7;
+    color: white;
+  }
+  
+  #error {
+    color: red;
+  }
+  
+  #success {
+    color: green;
+  }
+
+  p{
+    margin: 5px;
+    padding:5px;
+  }
+
+
+   
+    
