@@ -85,11 +85,10 @@ function signup() {
   function logout() {
     // Clear user state from local storage
      localStorage.removeItem('user');
-   //localStorage.clear();
-  
+    
     // Redirect to signup page
      window.location.href = 'index.html';
-    //redirectBasedOnAuthentication()
+    
   }
   
   

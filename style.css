@@ -5,19 +5,11 @@
     flex-direction: column;
     align-items: center;
     margin-top: 100px;
+
    
   }
+
   
-  /* #signup-page,
-  #profile-page {
-    display: none;
-  } */
-  
-  /* h2 {
-    margin-bottom: 20px;
-  } */
-  
- 
   input {
     margin-bottom: 20px;
   
@@ -35,7 +27,7 @@
     max-width: 900px;
     margin: auto;
     text-align: center;
-    background-color: white;
+   
     
 
   }
@@ -47,7 +39,7 @@
     margin: auto;
     text-align: center;
     height:400px;
-    background-color: white;
+   
   }
    
   button {
